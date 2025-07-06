@@ -1,4 +1,4 @@
-# Proyecto Final del I Semestre
+# Proyecto Final // I Semestre
 Gestión de órdenes para el restaurante Pollos "El buen Sabor"
 
 # Este repositorio incluye: 
