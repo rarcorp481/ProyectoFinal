@@ -15,3 +15,4 @@ Gestión de órdenes para el restaurante Pollos "El buen Sabor"
 - Ingeniería en Sistemas de la Información
 - Introducción a la Programación
 - Rodolfo Alfredo Ramírez Collado // 22010929
+- Grupo 3
