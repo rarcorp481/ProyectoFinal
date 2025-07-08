@@ -6,7 +6,6 @@ Gestión de órdenes para el restaurante Pollos "El buen Sabor"
 - Algoritmo en PseInt
 - Archivos que utiliza el programa (*.txt)
 - Código en Python
-- Enlaces reposotiro GitHub de cada integrante
 - Presentación
 
 
@@ -15,4 +14,5 @@ Gestión de órdenes para el restaurante Pollos "El buen Sabor"
 - Ingeniería en Sistemas de la Información
 - Introducción a la Programación
 - Rodolfo Alfredo Ramírez Collado // 22010929
+- Martes 08 de Julio, 2025
 - Grupo 3
