@@ -1,0 +1,8 @@
+----- FACTURA -----
+Fecha: 2025-07-03 23:47:18
+Cliente Nº: 1
+
+1. pollo asado - 200 Córdobas
+
+Total a pagar: 200 Córdobas
+--------------------
